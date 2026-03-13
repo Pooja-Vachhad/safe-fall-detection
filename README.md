@@ -118,7 +118,7 @@ We welcome contributions from the community:
 ## How to Run Locally
 ```bash
 # Clone the repo
-git clone https:/tumblr-byte/github.com/safe-fall-detection.git
+git clone https:/Pooja-Vachhad/github.com/safe-fall-detection.git
 cd safe-fall-detection
 
 # Install dependencies
